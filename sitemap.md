@@ -1,0 +1,5 @@
+- https://github.com/orgs/Thailand-Charm/discussions/1
+- https://github.com/orgs/Thailand-Charm/discussions/2
+- https://github.com/orgs/Thailand-Charm/discussions/3
+- https://github.com/orgs/Thailand-Charm/discussions/4
+- https://github.com/orgs/Thailand-Charm/discussions/5
